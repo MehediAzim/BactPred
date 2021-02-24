@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1Fi7oh8mKxoSJLehluahYU9CDM0xpqSHv
 """
 
-from google.colab import drive
-drive.mount('/content/drive',force_remount=True)
+# from google.colab import drive
+# drive.mount('/content/drive',force_remount=True)
 
 # Commented out IPython magic to ensure Python compatibility.
 # %cd 'drive/My Drive/Research/Antimicrobial_peptide/code'
